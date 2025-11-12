@@ -1,4 +1,3 @@
-//Small Quiz App
 import java.util.Scanner;
 public class QuizApp {
     public static void main(String args[]) {
@@ -21,6 +20,6 @@ public class QuizApp {
         }
 
         System.out.println("\nYour Total Score is: " + score+"/2");
-        sc.close();
     }
+
 }
